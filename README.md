@@ -1,1 +1,1 @@
-# myrepo Prime number
+# Prime number
